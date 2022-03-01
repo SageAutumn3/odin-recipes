@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(177, 227, 247);
+}
+
+#chicken-soup.header{
+    text-decoration-line: none;
+    font-family: Copperplate, Papyrus, fantasy
+}
+
+.title,
+.header,
+.tips,
+.image,
+#cn-description{
+    text-align: center;
+}
+
+.header{
+    text-decoration-line: underline;
+    font-family: Copperplate, Papyrus, fantasy
+}
+
+#chicken-soup,
+#cn-description{
+    color: rgb(64, 13, 145);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img{
+    height: 300px;
+    width: 200px;
+}
+
+.cn-ingredients,
+#cn-ingredient-list{
+    color: rgb(127, 64, 187);
+    line-height: 0.8cm;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p.tips{
+    font-weight: 100;
+    color: rgb(255, 174, 0);
+    line-height: 0.6cm;
+}
+
+#cn-step-list,
+.cn-steps{
+    color: rgb(184, 70, 219);
+    line-height: 0.6cm;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+footer{
+    text-align: right;
+}
