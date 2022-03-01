@@ -1,0 +1,31 @@
+#recipe-book {
+    color: rgb(22, 78, 31);
+    font-size: 48px;
+}
+.header {
+    text-align: center;
+    font-weight: bold;
+    font-family: Copperplate, Papyrus, fantasy
+}
+p,
+.soup-list,
+.mexican-food-list {
+    font-family: 'Courier New', Courier, monospace;
+}
+div {
+    text-align: center;
+}
+#soups,
+.soup-list{
+    color: rgb(64, 13, 145);
+}
+#mexican-food,
+.mexican-food-list{
+    color: rgb(212, 46, 46);
+}
+#recipes-title{
+    color: rgb(255, 174, 0);
+}
+body{
+    background-color: rgb(177, 227, 247);
+}
